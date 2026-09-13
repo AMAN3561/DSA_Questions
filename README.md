@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/AMAN3561/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0303-range-sum-query-immutable](https://github.com/AMAN3561/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/AMAN3561/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/AMAN3561/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/AMAN3561/LeetCode/tree/master/0455-assign-cookies) |
 | [0523-continuous-subarray-sum](https://github.com/AMAN3561/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/AMAN3561/LeetCode/tree/master/0525-contiguous-array) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AMAN3561/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/AMAN3561/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0279-perfect-squares](https://github.com/AMAN3561/LeetCode/tree/master/0279-perfect-squares) |
+| [0435-non-overlapping-intervals](https://github.com/AMAN3561/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/AMAN3561/LeetCode/tree/master/0509-fibonacci-number) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/AMAN3561/LeetCode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0877-stone-game](https://github.com/AMAN3561/LeetCode/tree/master/0877-stone-game) |
@@ -512,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/AMAN3561/LeetCode/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/AMAN3561/LeetCode/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/AMAN3561/LeetCode/tree/master/0402-remove-k-digits) |
+| [0435-non-overlapping-intervals](https://github.com/AMAN3561/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/AMAN3561/LeetCode/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/AMAN3561/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/AMAN3561/LeetCode/tree/master/0621-task-scheduler) |
@@ -554,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/AMAN3561/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/AMAN3561/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/AMAN3561/LeetCode/tree/master/0389-find-the-difference) |
+| [0435-non-overlapping-intervals](https://github.com/AMAN3561/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/AMAN3561/LeetCode/tree/master/0455-assign-cookies) |
 | [0539-minimum-time-difference](https://github.com/AMAN3561/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0611-valid-triangle-number](https://github.com/AMAN3561/LeetCode/tree/master/0611-valid-triangle-number) |
