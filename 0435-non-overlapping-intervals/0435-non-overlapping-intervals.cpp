@@ -15,15 +15,15 @@ public:
             int next_start = next_interval[0];
             int next_end = next_interval[1];
 
-            if(curr_end <= next_start){
+            if(curr_end <= next_start){ // no overlapping
                 i = j;
                 j++;
             }
-            else if(curr_end <= next_end){
+            else if(curr_end <= next_end){ // overlapping next elements overlaps.
                 j++;
                 count++;
             }
-            else if(curr_end > next_end){
+             else {// if(curr_end > next_end){ // overlapping last element overlaps.
                 i = j;
                 j++;
                 count++;
