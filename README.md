@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/AMAN3561/LeetCode/tree/master/0037-sudoku-solver) |
 | [0045-jump-game-ii](https://github.com/AMAN3561/LeetCode/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/AMAN3561/LeetCode/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/AMAN3561/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/AMAN3561/LeetCode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/AMAN3561/LeetCode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/AMAN3561/LeetCode/tree/master/0055-jump-game) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/AMAN3561/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AMAN3561/LeetCode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/AMAN3561/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/AMAN3561/LeetCode/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/AMAN3561/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/AMAN3561/LeetCode/tree/master/0189-rotate-array) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/AMAN3561/LeetCode/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/AMAN3561/LeetCode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/AMAN3561/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/AMAN3561/LeetCode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/AMAN3561/LeetCode/tree/master/0085-maximal-rectangle) |
